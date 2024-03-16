@@ -7,6 +7,8 @@ import Type from "./Type";
 import { AiOutlineDownload } from "react-icons/ai";
 import Button from "react-bootstrap/Button";
 import pdf from "../../Assets/../Assets/Mukesh newResume.pdf";
+import Projects from "../Projects/Projects";
+import About from "../About/About";
 
 
 function Home() {
@@ -59,6 +61,7 @@ function Home() {
         </Container>
       </Container>
       <Home2 />
+    
     </section>
   );
 }
