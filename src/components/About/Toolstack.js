@@ -7,7 +7,8 @@ import {
   SiWindows11,
   SiMysql,
   SiLinux,
-
+  SiEclipseide,
+  SiIntellijidea
 
   
 } from "react-icons/si";
@@ -23,6 +24,12 @@ function Toolstack() {
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <SiVisualstudiocode />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <SiEclipseide />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <SiIntellijidea />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <SiPostman />

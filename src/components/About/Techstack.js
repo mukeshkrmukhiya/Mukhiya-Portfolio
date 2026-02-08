@@ -17,6 +17,9 @@ import {
 
 } from "react-icons/di";
 import {
+  SiSpringboot,
+  SiJenkins,
+  SiDocker,
   SiRedis,
   SiFirebase,
   SiNextdotjs,
@@ -33,6 +36,15 @@ function Techstack() {
     <Row style={{ justifyContent: "center", paddingBottom: "50px" }}>
       <Col xs={4} md={2} className="tech-icons">
         <DiJava />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <SiSpringboot />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <SiJenkins />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <SiDocker />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <DiPython />

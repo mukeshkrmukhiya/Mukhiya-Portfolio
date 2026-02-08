@@ -11,20 +11,20 @@ function AboutCard() {
             Hello, I am <span className="purple">Mukesh Kumar Mukhiya </span>
             from <span className="purple"> Sitamarhi, Bihar, India.</span>
             <br />
-            Passionate Web Developer Seeking Exciting Job Opportunities.
+            I am a Software Engineer at TCS, working with Spring Boot and trained in Java Full Stack development (Java, Spring Boot, Angular).
             <br />
-            I have Pursuing BTECH from  Bharati Vidyapeeth College of Engineering, Pune.
+            I hold a B.Tech in Electronics and Telecommunication Engineering from Bharati Vidyapeeth College of Engineering, Pune. I have prior experience as a MERN Stack Developer intern, where I built a Quiz Website and an Online Examination Platform.
             <br />
             <br />
-            I completed a two-month internship as a MERN stack developer and Developed
+            I am continuously learning and focused on building scalable, real-world applications.
           </p>
           <ul>
             <li className="about-activity">
-              <FaCircleArrowRight  /> Quiz website
+              <FaCircleArrowRight  /> Online Chess Website
             </li>
             
             <li className="about-activity">
-              <FaCircleArrowRight  /> Examination website
+              <FaCircleArrowRight  /> Quiz Website
             </li>
           </ul>
 
