@@ -1,17 +1,14 @@
-import React, { useState } from "react";
-import Navbar from "react-bootstrap/Navbar";
-import Nav from "react-bootstrap/Nav";
+import { useState } from "react";
 import Container from "react-bootstrap/Container";
-import logo from "../Assets/finalogo.png";
-import Button from "react-bootstrap/Button";
+import Nav from "react-bootstrap/Nav";
+import Navbar from "react-bootstrap/Navbar";
 import { Link } from "react-router-dom";
-import { CgGitFork } from "react-icons/cg";
+import logo from "../Assets/finalogo.png";
 // import { ImBlog } from "react-icons/im";
 import {
-  AiFillStar,
-  AiOutlineHome,
   AiOutlineFundProjectionScreen,
-  AiOutlineUser,
+  AiOutlineHome,
+  AiOutlineUser
 } from "react-icons/ai";
 
 import { CgFileDocument } from "react-icons/cg";

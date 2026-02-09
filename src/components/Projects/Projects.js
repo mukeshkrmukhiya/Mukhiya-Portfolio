@@ -1,19 +1,18 @@
-import React from "react";
-import { Container, Row, Col } from "react-bootstrap";
-import ProjectCard from "./ProjectCards";
-import Particle from "../Particle";
-import jscalc from "../../Assets/Projects/jscalc.png";
-import mwfunda from "../../Assets/Projects/mwfunda.png";
-import simpleweb from "../../Assets/Projects/simpleweb.png";
-import quiz from "../../Assets/Projects/quiz.png";
-import weather from "../../Assets/Projects/weather.png";
-import facerecog from "../../Assets/Projects/facerecog.png";
+import { Col, Container, Row } from "react-bootstrap";
 import alexaimg from "../../Assets/Projects/alexaimg.jpg";
-import motherKitchen from "../../Assets/Projects/motherKitchen.png";
-import PlayStation from "../../Assets/Projects/PlayStation.png";
 import chessplay from "../../Assets/Projects/chessplay.png";
+import facerecog from "../../Assets/Projects/facerecog.png";
+import jscalc from "../../Assets/Projects/jscalc.png";
+import motherKitchen from "../../Assets/Projects/motherKitchen.png";
+import mwfunda from "../../Assets/Projects/mwfunda.png";
 import mybuilding from "../../Assets/Projects/mybuilding.png";
 import onlinedocs from "../../Assets/Projects/onlinedocs.png";
+import PlayStation from "../../Assets/Projects/PlayStation.png";
+import quiz from "../../Assets/Projects/quiz.png";
+import simpleweb from "../../Assets/Projects/simpleweb.png";
+import weather from "../../Assets/Projects/weather.png";
+import Particle from "../Particle";
+import ProjectCard from "./ProjectCards";
 
 function Projects() {
   return (

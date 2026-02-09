@@ -1,14 +1,7 @@
-import React from "react";
-import { Container, Row, Col } from "react-bootstrap";
+import { Col, Container, Row } from "react-bootstrap";
 import homeLogo from "../../Assets/homemain.png";
-import Particle from "../Particle";
 import Home2 from "./Home2";
 import Type from "./Type";
-import { AiOutlineDownload } from "react-icons/ai";
-import Button from "react-bootstrap/Button";
-import pdf from "../../Assets/../Assets/Mukesh newResume.pdf";
-import Projects from "../Projects/Projects";
-import About from "../About/About";
 
 
 function Home() {
